@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otplable.github.io/sitemap
+Sitemap: https://otplable.github.io/app/sitemap
+Sitemap: https://otplable.github.io/assets/sitemap
+Sitemap: https://otplable.github.io/css/sitemap
+Sitemap: https://otplable.github.io/includes/sitemap
+Sitemap: https://otplable.github.io/item/sitemap
+Sitemap: https://otplable.github.io/src/sitemap
